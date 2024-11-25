@@ -50,6 +50,7 @@ gYep.addEventListener("click", () => {
   giveBack.classList.remove("active");
   cake.classList.remove("stolen");
   herCounter = 0;
+  counter = 0;
   happi.play();
   meow.pause();
 })
